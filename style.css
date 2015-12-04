@@ -1,0 +1,28 @@
+.grid{
+    position: relative;
+	width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    padding: 5px;
+    border-spacing: 1px;
+    border-collapse: collapse; /*so only the table data border shows*/
+    margin-left: 300px;
+    margin-top: 50px;
+    background-color: white;
+}
+td {
+    border: 1px solid black;
+}
+#pretty{
+    background-color: green;
+    box-shadow: 5px 5px 5px #888888;
+    font: 20px arial;
+    border-radius: 10px;
+    margin-left: 100px;
+    text-decoration: none;
+
+}
+
+body {
+    background-color: #CCE5FF;
+}
